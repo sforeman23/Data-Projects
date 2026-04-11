@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Projects:</h2>
 
 - <b>SQL / MySQL Projects</b>
-  - [Retail Sales & Operations Analysis]()
+  - [Retail Sales & Operations Analysis](https://github.com/sforeman23/Retail-Sales-Analysis)
   
 
 <h2> 🤳 Connect with me:</h2>
