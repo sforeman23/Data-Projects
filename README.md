@@ -4,7 +4,7 @@
 
 - <b>SQL / MySQL Projects</b>
   - [Retail Sales & Operations Analysis](https://github.com/sforeman23/Retail-Sales-Analysis)
-   
+   - [Healthcare Analysis](https://github.com/sforeman23/Healthcare-Analysis)
     
 <h2> 🤳 Connect with me:</h2>
 
